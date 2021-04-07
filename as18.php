@@ -6,6 +6,10 @@ echo "<a target='_blank' href='https://github.com/gpcorser/api.git'>GitHub repo<
 # here is result after accepting current change
 main(); 
 
+function blahblahblah () {
+	echo "blahblahblah";
+}
+
 function main () {
 	
 	$apiCall = 'https://api.covid19api.com/summary';
