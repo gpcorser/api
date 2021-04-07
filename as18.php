@@ -2,7 +2,7 @@
 echo "<a target='_blank' href='https://github.com/gpcorser/api.git'>GitHub repo</a> <br>";
 
 # here is a comment to prove file has changed
-# here is a comment added in VS Code
+# here is a comment added in VS Code (after github saved)
 
 main(); 
 
