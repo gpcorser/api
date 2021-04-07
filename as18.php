@@ -7,6 +7,10 @@ echo "<a target='_blank' href='https://github.com/gpcorser/api.git'>GitHub repo<
 
 main(); 
 
+function blahGithub () {
+    echo "blah";
+}
+
 function blah() {
     echo "blah";
 }
