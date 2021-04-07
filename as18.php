@@ -11,6 +11,10 @@ function blah() {
     echo "blah";
 }
 
+function blahblahblah () {
+	echo "blahblahblah";
+}
+
 function main () {
 	
 	$apiCall = 'https://api.covid19api.com/summary';
